@@ -1,4 +1,4 @@
-# OCS
+# Ontology of Coherent States (OCS)
 
 © 2025 [Alexander Shurlygin]
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
@@ -45,7 +45,9 @@ It is not a draft and is not intended to be modified retroactively.
 
 If you wish to reference this work, please cite it as:
 
-> Alexander Shurlygin, *Ontology of Coherent States: Limit of Distinguishability and the Structure of Physical Reality*, v1.0, 2025.
+Alexander Shurlygin.  
+*Ontology of Coherent States: Limit of Distinguishability and the Structure of Physical Reality.*  
+Version 1.0, 2025.
 
 A permanent link to this repository may be used as a reference anchor.
 
@@ -75,4 +77,4 @@ This repository is intended as a starting point for reflection and dialogue,
 not as a definitive conclusion.
 
 The concept is offered to the scientific and philosophical community  
-as an invitation to think, test, and reinterpret — not as a claim of final truth.
+as an invitation to think, test, and reinterpret — not as a claim of final truth, but as a coherent proposal open to scrutiny, reinterpretation, and refinement.
