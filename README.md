@@ -30,7 +30,7 @@ Future revisions or extensions, if any, will be explicitly versioned and will no
 
 - **Version:** v1.0  
 - **Status:** Fixed conceptual publication  
-- **Date:** YYYY-MM-DD  
+- **Date:** 2025-12-28  
 
 The PDF published here represents a completed and internally consistent conceptual framework.  
 It is not a draft and is not intended to be modified retroactively.
@@ -41,7 +41,7 @@ It is not a draft and is not intended to be modified retroactively.
 
 If you wish to reference this work, please cite it as:
 
-> Author Name, *Ontology of Coherent States: Limit of Distinguishability and the Structure of Physical Reality*, v1.0, YYYY.
+> Alexander Shurlygin, *Ontology of Coherent States: Limit of Distinguishability and the Structure of Physical Reality*, v1.0, 2025.
 
 A permanent link to this repository may be used as a reference anchor.
 
